@@ -1,5 +1,3 @@
-
-
 class test{
      //variable = 100;
      myFunction() {
@@ -10,7 +8,6 @@ class test{
 
 let myTest = new test();
 myTest.myFunction();
-
 
 // unnamed
 let Rectangle = class {
